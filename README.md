@@ -1,4 +1,4 @@
-# CVNN_Basic
+# Performance analysis of CVNNs
 Basic regression and classification examples using CVNN library developed by https://github.com/NEGU93/cvnn
 
 Classification example: Classify among 6 different categories of complex QAM signals of order (4,16,64,256), BSPK, and random Guassian noise.
